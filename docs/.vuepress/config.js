@@ -59,7 +59,7 @@ module.exports = {
     "search": true,   // 搜索设置
     "searchMaxSuggestions": 10,
     "sidebar": "auto",   // 自动形成侧边导航
-    "lastUpdated": "Last Updated", // 最后更新时间
+    "lastUpdated": "最后更新时间", // 最后更新时间
     "author": "许楚国",  // 作者名字
     "authorAvatar": "/avatar.png",  // 作者头像
     "startYear": "2019"   // 项目开始时间
