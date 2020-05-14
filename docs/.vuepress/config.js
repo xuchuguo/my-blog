@@ -27,11 +27,6 @@ module.exports = {
         "link": "/",
         "icon": "reco-home"
       },
-      // {
-      //   "text": "TimeLine",
-      //   "link": "/timeline/",
-      //   "icon": "reco-date"
-      // }, // 时间戳
       {
         "text": "我的github",
         "icon": "reco-github",
@@ -62,7 +57,9 @@ module.exports = {
     "lastUpdated": "最后更新时间", // 最后更新时间
     "author": "许楚国",  // 作者名字
     "authorAvatar": "/avatar.png",  // 作者头像
-    "startYear": "2019"   // 项目开始时间
+    "startYear": "2019",   // 项目开始时间
+    "mode": 'light', // 默认 auto，auto 跟随系统，dark 暗色模式，light 亮色模式
+    "modePicker": false // 默认 true，false 不显示模式调节按钮，true 则显示
   },
   "markdown": {
     "lineNumbers": true
