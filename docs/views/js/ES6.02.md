@@ -6,3 +6,5 @@ categories:
 tags:
  - ES6
 ---
+
+## 字符串扩展
