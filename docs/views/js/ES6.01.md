@@ -2,7 +2,7 @@
 title: 【ES6入门第一章】
 date: 2020-04-05 12:28:00
 categories:
- - js
+ - ES6
 tags:
  - ES6
 ---
