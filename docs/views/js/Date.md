@@ -47,7 +47,7 @@ Date对象还接受一个日期字符串作为参数，返回所对应的时间�
     new Date("18, Feberuary, 2020")
 ```
 
-### new Date(year, month [, day, hours, minutes, seconds, ms])
+### new Date(year, month, [day, hours, minutes, seconds, ms])
 在多个参数的情况下，Date对象将其分别视作对应的年、月、日、小时、分钟、秒和毫秒。
 
 如果采用这种用法，最少需要指定两个参数（年和月），其他参数都是可选的，默认等于0。如果只使用年一个参数，Date对象会将其解释为毫秒数。
