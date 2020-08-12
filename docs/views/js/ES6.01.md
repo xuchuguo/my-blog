@@ -1,5 +1,5 @@
 ---
-title: 【ES6入门第一章】
+title: 【ES6】let,const和解构赋值
 date: 2020-05-05 22:28:00
 categories:
  - ES6
