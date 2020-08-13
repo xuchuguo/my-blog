@@ -1,6 +1,6 @@
 ---
 title: 组件命名方法与porp使用方法
-date: 2020-06-06 22:37:00
+date: 2020-06-10 22:37:00
 categories:
  - vue
 tags:
