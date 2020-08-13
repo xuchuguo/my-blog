@@ -1,6 +1,6 @@
 module.exports = {
   "title": "许楚国的博客",
-  "description": "做一个管理时间的人",
+  "description": "勤能补拙",
   // "dest": "public", // build后的输出文件夹,默认  .vuepress/dist
   "base": '/my-blog/',
   "head": [
