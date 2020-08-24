@@ -33,13 +33,13 @@ tags:
 
     全局引入
     ``` js
-        import { HelloMixin } from './mixin'
+        import { HelloMixin } from './mixin.js'
         Vue.mixin(HelloMixin)
     ```
 
     局部引入
     ``` js
-        import { HelloMixin } from './mixin'
+        import { HelloMixin } from './mixin.js'
         export default {
             name: 'Mixin',
              mixins: [HelloMixin]
@@ -59,7 +59,7 @@ tags:
 </template>
 
 <script>
-import { HelloMixin } from './mixin'
+import { HelloMixin } from './mixin.js'
 export default {
     name: 'Temp1',
      mixins: [HelloMixin],
